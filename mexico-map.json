@@ -1528,11 +1528,11 @@
       },
       "properties": {
         "name": "Zacatecas",
-        "STATE": "MX-ZAC",
+        "STATE": "ZAC",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-ZAC"
+      "STATE": "ZAC"
     },
     {
       "type": "Feature",
@@ -2181,11 +2181,11 @@
       },
       "properties": {
         "name": "Yucatán",
-        "STATE": "MX-YUC",
+        "STATE": "YUC",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-YUC"
+      "STATE": "YUC"
     },
     {
       "type": "Feature",
@@ -4140,11 +4140,11 @@
       },
       "properties": {
         "name": "Veracruz",
-        "STATE": "MX-VER",
+        "STATE": "VER",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-VER"
+      "STATE": "VER"
     },
     {
       "type": "Feature",
@@ -4409,11 +4409,11 @@
       },
       "properties": {
         "name": "Tlaxcala",
-        "STATE": "MX-TLA",
+        "STATE": "TLA",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-TLA"
+      "STATE": "TLA"
     },
     {
       "type": "Feature",
@@ -6392,11 +6392,11 @@
       },
       "properties": {
         "name": "Tamaulipas",
-        "STATE": "MX-TAM",
+        "STATE": "TAM",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-TAM"
+      "STATE": "TAM"
     },
     {
       "type": "Feature",
@@ -7291,11 +7291,11 @@
       },
       "properties": {
         "name": "Tabasco",
-        "STATE": "MX-TAB",
+        "STATE": "TAB",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-TAB"
+      "STATE": "TAB"
     },
     {
       "type": "Feature",
@@ -9210,11 +9210,11 @@
       },
       "properties": {
         "name": "Sonora",
-        "STATE": "MX-SON",
+        "STATE": "SON",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-SON"
+      "STATE": "SON"
     },
     {
       "type": "Feature",
@@ -10933,11 +10933,11 @@
       },
       "properties": {
         "name": "Sinaloa",
-        "STATE": "MX-SIN",
+        "STATE": "SIN",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-SIN"
+      "STATE": "SIN"
     },
     {
       "type": "Feature",
@@ -12030,11 +12030,11 @@
       },
       "properties": {
         "name": "San Luis Potosí",
-        "STATE": "MX-SLP",
+        "STATE": "SLP",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-SLP"
+      "STATE": "SLP"
     },
     {
       "type": "Feature",
@@ -13401,11 +13401,11 @@
       },
       "properties": {
         "name": "Quintana Roo",
-        "STATE": "MX-ROO",
+        "STATE": "ROO",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-ROO"
+      "STATE": "ROO"
     },
     {
       "type": "Feature",
@@ -13930,11 +13930,11 @@
       },
       "properties": {
         "name": "Querétaro",
-        "STATE": "MX-QUE",
+        "STATE": "QUE",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-QUE"
+      "STATE": "QUE"
     },
     {
       "type": "Feature",
@@ -14999,11 +14999,11 @@
       },
       "properties": {
         "name": "Puebla",
-        "STATE": "MX-PUE",
+        "STATE": "PUE",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-PUE"
+      "STATE": "PUE"
     },
     {
       "type": "Feature",
@@ -16280,11 +16280,11 @@
       },
       "properties": {
         "name": "Oaxaca",
-        "STATE": "MX-OAX",
+        "STATE": "OAX",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-OAX"
+      "STATE": "OAX"
     },
     {
       "type": "Feature",
@@ -17625,11 +17625,11 @@
       },
       "properties": {
         "name": "Nuevo León",
-        "STATE": "MX-NLE",
+        "STATE": "NLE",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-NLE"
+      "STATE": "NLE"
     },
     {
       "type": "Feature",
@@ -18716,11 +18716,11 @@
       },
       "properties": {
         "name": "Nayarit",
-        "STATE": "MX-NAY",
+        "STATE": "NAY",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-NAY"
+      "STATE": "NAY"
     },
     {
       "type": "Feature",
@@ -18945,11 +18945,11 @@
       },
       "properties": {
         "name": "Morelos",
-        "STATE": "MX-MOR",
+        "STATE": "MOR",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-MOR"
+      "STATE": "MOR"
     },
     {
       "type": "Feature",
@@ -20114,11 +20114,11 @@
       },
       "properties": {
         "name": "Michoacán",
-        "STATE": "MX-MIC",
+        "STATE": "MIC",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-MIC"
+      "STATE": "MIC"
     },
     {
       "type": "Feature",
@@ -20935,11 +20935,11 @@
       },
       "properties": {
         "name": "México",
-        "STATE": "MX-MEX",
+        "STATE": "MEX",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-MEX"
+      "STATE": "MEX"
     },
     {
       "type": "Feature",
@@ -22784,11 +22784,11 @@
       },
       "properties": {
         "name": "Jalisco",
-        "STATE": "MX-JAL",
+        "STATE": "JAL",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-JAL"
+      "STATE": "JAL"
     },
     {
       "type": "Feature",
@@ -23561,11 +23561,11 @@
       },
       "properties": {
         "name": "Hidalgo",
-        "STATE": "MX-HID",
+        "STATE": "HID",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-HID"
+      "STATE": "HID"
     },
     {
       "type": "Feature",
@@ -24590,11 +24590,11 @@
       },
       "properties": {
         "name": "Guerrero",
-        "STATE": "MX-GRO",
+        "STATE": "GRO",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-GRO"
+      "STATE": "GRO"
     },
     {
       "type": "Feature",
@@ -25355,11 +25355,11 @@
       },
       "properties": {
         "name": "Guanajuato",
-        "STATE": "MX-GUA",
+        "STATE": "GUA",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-GUA"
+      "STATE": "GUA"
     },
     {
       "type": "Feature",
@@ -26828,11 +26828,11 @@
       },
       "properties": {
         "name": "Durango",
-        "STATE": "MX-DUR",
+        "STATE": "DUR",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-DUR"
+      "STATE": "DUR"
     },
     {
       "type": "Feature",
@@ -26985,11 +26985,11 @@
       },
       "properties": {
         "name": "Ciudad de México",
-        "STATE": "MX-CMX",
+        "STATE": "CMX",
         "CNTRY": "Mexico",
         "TYPE": "Federal District"
       },
-      "STATE": "MX-CMX"
+      "STATE": "CMX"
     },
     {
       "type": "Feature",
@@ -27298,11 +27298,11 @@
       },
       "properties": {
         "name": "Colima",
-        "STATE": "MX-COL",
+        "STATE": "COL",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-COL"
+      "STATE": "COL"
     },
     {
       "type": "Feature",
@@ -29011,11 +29011,11 @@
       },
       "properties": {
         "name": "Coahuila",
-        "STATE": "MX-COA",
+        "STATE": "COA",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-COA"
+      "STATE": "COA"
     },
     {
       "type": "Feature",
@@ -30836,11 +30836,11 @@
       },
       "properties": {
         "name": "Chihuahua",
-        "STATE": "MX-CHH",
+        "STATE": "CHH",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-CHH"
+      "STATE": "CHH"
     },
     {
       "type": "Feature",
@@ -31791,11 +31791,11 @@
       },
       "properties": {
         "name": "Chiapas",
-        "STATE": "MX-CHP",
+        "STATE": "CHP",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-CHP"
+      "STATE": "CHP"
     },
     {
       "type": "Feature",
@@ -32798,11 +32798,11 @@
       },
       "properties": {
         "name": "Campeche",
-        "STATE": "MX-CAM",
+        "STATE": "CAM",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-CAM"
+      "STATE": "CAM"
     },
     {
       "type": "Feature",
@@ -35625,11 +35625,11 @@
       },
       "properties": {
         "name": "Baja California Sur",
-        "STATE": "MX-BCS",
+        "STATE": "BCS",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-BCS"
+      "STATE": "BCS"
     },
     {
       "type": "Feature",
@@ -37468,11 +37468,11 @@
       },
       "properties": {
         "name": "Baja California",
-        "STATE": "MX-BCN",
+        "STATE": "BCN",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-BCN"
+      "STATE": "BCN"
     },
     {
       "type": "Feature",
@@ -37701,11 +37701,11 @@
       },
       "properties": {
         "name": "Aguascalientes",
-        "STATE": "MX-AGU",
+        "STATE": "AGU",
         "CNTRY": "Mexico",
         "TYPE": "State"
       },
-      "STATE": "MX-AGU"
+      "STATE": "AGU"
     }
   ]
 }
